@@ -18,11 +18,10 @@ To install ejs embedded javascript, use this code on terminal
 ```
 sudo apt install ejs --save
 
-``
+```
 How to run the command on terminal
 
-```
-nodemon .
-```
+# nodemon .
+
 then open the chrome or any browser and run the ```localhost:2050/show``` you will get the photos with slider 
 
